@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VeriablesDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7fe880a-069a-41cf-bdb7-3235a6e1248f</testCaseGuid>
+   <variable>
+      <defaultValue>'ravi'</defaultValue>
+      <description></description>
+      <id>3f08be8b-6548-42d1-bed4-96ca3b81c07b</id>
+      <masked>false</masked>
+      <name>User</name>
+   </variable>
+</TestCaseEntity>
